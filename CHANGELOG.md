@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.0](https://github.com/GersonRS/modern-gitops-stack-module-loki-stack/compare/v1.1.0...v1.2.0) (2024-04-26)
+
+
+### Features
+
+* pull request template ([975f9a5](https://github.com/GersonRS/modern-gitops-stack-module-loki-stack/commit/975f9a538ccd0049c001e531863584728f07a8dc))
+
 ## [1.1.0](https://github.com/GersonRS/modern-gitops-stack-module-loki-stack/compare/v1.0.0...v1.1.0) (2024-04-26)
 
 
