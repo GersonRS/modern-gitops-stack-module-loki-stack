@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0](https://github.com/GersonRS/modern-gitops-stack-module-loki-stack/compare/v1.0.0...v1.1.0) (2024-04-26)
+
+
+### Features
+
+* **doc:** update and adjust documentation ([6342707](https://github.com/GersonRS/modern-gitops-stack-module-loki-stack/commit/6342707585dc6159fe49da6fb0e2bfd8ebae2f95))
+
 ## 1.0.0 (2024-04-24)
 
 
