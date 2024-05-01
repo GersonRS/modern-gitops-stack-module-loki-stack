@@ -1,5 +1,17 @@
 # Changelog
 
+## [2.5.0](https://github.com/GersonRS/modern-gitops-stack-module-loki-stack/compare/v2.4.0...v2.5.0) (2024-05-01)
+
+
+### 🚀 New Features
+
+* change chart update to include secrets ([9c8eb0c](https://github.com/GersonRS/modern-gitops-stack-module-loki-stack/commit/9c8eb0c463bd9a706ef865fae432c02c7219b1f8))
+
+
+### 📚 Documentation
+
+* **terraform-docs:** generate docs and write to README.adoc ([089f39b](https://github.com/GersonRS/modern-gitops-stack-module-loki-stack/commit/089f39bb568bf8ace98094ca6ffdce3b569064cd))
+
 ## [2.4.0](https://github.com/GersonRS/modern-gitops-stack-module-loki-stack/compare/v2.3.0...v2.4.0) (2024-05-01)
 
 
