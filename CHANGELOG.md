@@ -1,5 +1,13 @@
 # Changelog
 
+## [2.6.0](https://github.com/GersonRS/modern-gitops-stack-module-loki-stack/compare/v2.5.0...v2.6.0) (2025-01-18)
+
+
+### 🚀 New Features
+
+* update project ([0aa5b3d](https://github.com/GersonRS/modern-gitops-stack-module-loki-stack/commit/0aa5b3d48bb942bf2eaa6378d24c0c0d218e5948))
+* update project ([f5bfd95](https://github.com/GersonRS/modern-gitops-stack-module-loki-stack/commit/f5bfd95c27071e1ee1516b05269219134329b3d0))
+
 ## [2.5.0](https://github.com/GersonRS/modern-gitops-stack-module-loki-stack/compare/v2.4.0...v2.5.0) (2024-05-01)
 
 
