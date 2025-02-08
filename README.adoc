@@ -78,7 +78,7 @@ Description: Override of target revision of the application chart.
 
 Type: `string`
 
-Default: `"v2.5.0"`
+Default: `"v2.6.1"`
 
 ==== [[input_enable_service_monitor]] <<input_enable_service_monitor,enable_service_monitor>>
 
@@ -331,8 +331,8 @@ Description: Credentials to access the Loki ingress, if activated.
 |Name |Version
 |[[provider_random]] <<provider_random,random>> |>= 3
 |[[provider_htpasswd]] <<provider_htpasswd,htpasswd>> |>= 1
-|[[provider_utils]] <<provider_utils,utils>> |>= 1
 |[[provider_argocd]] <<provider_argocd,argocd>> |>= 6
+|[[provider_utils]] <<provider_utils,utils>> |>= 1
 |[[provider_null]] <<provider_null,null>> |>= 3
 |===
 
@@ -376,7 +376,7 @@ Description: Credentials to access the Loki ingress, if activated.
 |[[input_target_revision]] <<input_target_revision,target_revision>>
 |Override of target revision of the application chart.
 |`string`
-|`"v2.5.0"`
+|`"v2.6.1"`
 |no
 
 |[[input_enable_service_monitor]] <<input_enable_service_monitor,enable_service_monitor>>
