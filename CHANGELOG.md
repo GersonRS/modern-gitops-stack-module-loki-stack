@@ -1,5 +1,13 @@
 # Changelog
 
+## [2.6.1](https://github.com/GersonRS/modern-gitops-stack-module-loki-stack/compare/v2.6.0...v2.6.1) (2025-02-08)
+
+
+### ⌨️ Code Refactoring
+
+* adjust workflows ([9820209](https://github.com/GersonRS/modern-gitops-stack-module-loki-stack/commit/9820209a5fa59bd9746c6eafc546946215c7bdb1))
+* try adjust code 5 ([55579a2](https://github.com/GersonRS/modern-gitops-stack-module-loki-stack/commit/55579a2e00f9a1fe5dcfd2b756d4ccda789966be))
+
 ## [2.6.0](https://github.com/GersonRS/modern-gitops-stack-module-loki-stack/compare/v2.5.0...v2.6.0) (2025-01-18)
 
 
