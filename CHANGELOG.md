@@ -1,5 +1,13 @@
 # Changelog
 
+## [2.9.0](https://github.com/gersonrs/modern-gitops-stack-module-loki-stack/compare/v2.8.0...v2.9.0) (2026-07-11)
+
+
+### 🚀 New Features
+
+* add namespace_labels variable to all modules ([ec06635](https://github.com/gersonrs/modern-gitops-stack-module-loki-stack/commit/ec06635fd49d3461067a7c4bbdb7f7ef1dcbf5be))
+* add namespace_labels variable to all modules ([445c620](https://github.com/gersonrs/modern-gitops-stack-module-loki-stack/commit/445c620ea884e75adcbbc44ea885781409e3eb0d))
+
 ## [2.8.0](https://github.com/gersonrs/modern-gitops-stack-module-loki-stack/compare/v2.7.0...v2.8.0) (2026-05-19)
 
 
